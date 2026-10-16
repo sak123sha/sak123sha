@@ -12,7 +12,7 @@ Python • SQL • Postman • REST APIs • JIRA • Test Planning • Regressi
 
 ## 📂 Projects
 - [Prompt Evaluation Dataset](https://github.com/sak123sha/prompt-evaluation-dataset): 20+ test prompts across safety, bias, hallucination, reasoning and Hindi/English
-- Scoring Rubric (coming soon)
+- - [Scoring Rubric & Sample Evaluation](https://github.com/sak123sha/prompt-evaluation-dataset): 4-criteria rubric and a worked evaluation example
 
 ## 📫 Contact
 sakshisharmas4545@gmail.com
